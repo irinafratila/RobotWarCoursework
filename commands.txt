@@ -1,0 +1,23 @@
+turnleft 104
+turnleft 104
+move 104
+move 104
+move 104
+turnleft 100
+turnleft 100
+move 100
+move 100
+move 100
+turnright 100
+move 100
+move 105
+move 105
+move 112
+move 112
+move 112
+move 112
+move 111
+move 111
+move 111
+move 1
+show
